@@ -40,7 +40,6 @@ User authentication (Login/Signup)
 
 Fully responsive layout
 
-## 📄 Primary Pages
 
 ### 📄 Primary Pages
 
